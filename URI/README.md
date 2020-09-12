@@ -14,6 +14,8 @@
 
 ## Observações pontuais
 
+Para quem já está familiarizado com outras linguagens de programação, nosso torneio também aceitará **Java** e **C#**. E para estes temos algumas observações especiais sobre a estrutura básica que o URI requer.
+
 ### Java
 
 - O uso de `BufferedReader` é opcional. Também é possível realizar a entrada e saída através de `Scanner`, assim não há a necessidade de implementar `IOException`.
