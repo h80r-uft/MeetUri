@@ -10,13 +10,15 @@
 
 - ***Saída de informações***
   - `print()`
-- ***Entrada de informações***
-  - `input()`
 - ***Tipos primitivos***
   - ***Integers***
   - ***Floats***
   - ***Booleans***
   - ***Strings***
+
+- ***Entrada de informações***
+  - `input()`
+
 - ***Variáveis***
   - ***Declaração***
   - ***Atribuição***
@@ -60,6 +62,12 @@
 - `continue`
 - `range()`
 - `else`
+
+### Aprofundando os básicos
+
+- `input()`
+- `print()`
+- ***End Of File*** - `EOF`
 
 ### Funções
 
