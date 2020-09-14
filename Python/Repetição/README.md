@@ -47,9 +47,9 @@ velocidade = 10
 
 while velocidade < 100:
     print("Acelerando...")
-	if velocidade == 70:
-		break
-	velocidade += 10
+    if velocidade == 70:
+        break
+    velocidade += 10
 	
 print("Velocidade final:", velocidade)
 ```
@@ -68,8 +68,8 @@ numero_atual = 0
 
 while numero_atual < 10:
     numero_atual += 1
-	if numero_atual % 2 == 0:
-		continue
+    if numero_atual % 2 == 0:
+        continue
     soma += numero_atual
     
 print(soma)
@@ -82,10 +82,10 @@ print(soma)
 ```python
 quacks = 10
 while quacks > 0:
-	print("QUACK!")
-	quacks -= 1
+    print("QUACK!")
+    quacks -= 1
 else:
-	print("Que silêncio...")
+    print("Que silêncio...")
 ```
 
 > Execute o programa acima para ter uma demonstração de sua funcionalidade.
@@ -98,7 +98,7 @@ else:
 
 ```python
 for i in range(5):
-	print(i)
+    print(i)
 ```
 
 > Executando o programa acima, vemos que ele irá ter a seguinte saída:
@@ -139,9 +139,9 @@ for i in range(5):
 int main()
 {
     for (int i = 1; i < 10; i += 2)
-	{
-    	printf("%d\n", i);
-	}
+    {
+        printf("%d\n", i);
+    }
 }
 ```
 
@@ -149,5 +149,5 @@ int main()
 
 ```python
 for i in range(1, 10, 2):
-	print(i)
+    print(i)
 ```
