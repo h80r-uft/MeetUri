@@ -50,3 +50,18 @@
 - `continue`
 - `else`
 - `range()`
+
+### Listas
+
+- ***Criando listas***
+- ***Acessando itens***
+- ***Modificando itens***
+- ***Iterando sobre a lista***
+- ***Verificando valores***
+- ***Comprimento da lista***
+- ***Adicionando itens***
+- ***Removendo itens***
+- ***Copiando listas***
+- ***Unindo listas***
+- `list()`
+- ***Métodos de listas***
