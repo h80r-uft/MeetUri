@@ -65,3 +65,22 @@
 - ***Unindo listas***
 - `list()`
 - ***Métodos de listas***
+
+### Aprofundando os básicos
+
+- `input()`
+- ***Atribuição***
+- `print()`
+- ***End Of File*** - `EOF`
+
+### Funções
+
+- ***Criação***
+- ***Chamada***
+- ***Argumentos***
+- ***Argumentos arbitrários***
+- ***Keyword Arguments***
+- ***Arbitrary Keyword Arguments***
+- ***Valor padrão de argumentos***
+- ***Retornar valores***
+- ***Recursividade***
