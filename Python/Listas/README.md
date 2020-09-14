@@ -309,7 +309,7 @@ print(cesta)
 
 ## `list()`
 
-> O construtor da classe ***list***. ele pode receber qualquer coleção como argumento e irá criar uma lista baseada nisso.
+> O construtor da classe ***list***. Ele pode receber qualquer coleção como argumento e irá criar uma lista baseada nisso.
 >
 > Também é possível usar esta função sem argumentos, criando uma lista vazia.
 >
