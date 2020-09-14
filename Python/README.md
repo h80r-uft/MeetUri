@@ -26,3 +26,27 @@
   - `int()`
   - `float()`
   - `str()`
+
+### Operadores
+
+- ***Operadores aritméticos***
+- ***Operadores relacionais***
+- ***Operadores lógicos***
+- ***Funções matemáticas***
+
+### Lógica
+
+- `if`
+- `else`
+- `elif`
+- ***Operador ternário***
+
+### Repetição
+
+- `while`
+
+- `for`
+- `break`
+- `continue`
+- `else`
+- `range()`
