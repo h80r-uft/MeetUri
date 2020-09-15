@@ -92,6 +92,6 @@
 - `__init__()`
 - `self`
 - ***Funções de objetos***
-- ***Funções estáticas***
 - ***Acessando propriedades de objetos***
+- ***Funções estáticas***
 
