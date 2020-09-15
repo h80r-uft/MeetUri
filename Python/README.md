@@ -84,3 +84,14 @@
 - ***Valor padrão de argumentos***
 - ***Retornar valores***
 - ***Recursividade***
+
+### Classes
+
+- `class`
+- ***Objetos***
+- `__init__()`
+- `self`
+- ***Funções de objetos***
+- ***Funções estáticas***
+- ***Acessando propriedades de objetos***
+
